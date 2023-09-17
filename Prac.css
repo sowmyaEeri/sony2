@@ -1,0 +1,188 @@
+*
+{
+  font-family: serif;
+}
+.nav li 
+{
+  margin-right:50px;
+  color:#fff;
+}
+.nav 
+{
+  line-height:70px;
+}
+.btn
+{
+  border-color: #fff;
+  color:#fff;
+}
+.container-flex
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.A1
+{
+  margin:50px 0px;
+}
+.q1
+{
+  width:49%;
+  height:auto;
+  margin:20px 0px;
+}
+#fgh
+{
+  height:600px;
+  object-fit: cover;
+  padding-bottom:100px;
+}
+.q1 img 
+{
+  width:100%;
+  height:400px;
+  margin-top:100px;
+  object-fit: cover;
+}
+#jkl
+{
+  width:100%;
+  height:320px;
+  object-fit: cover;
+}
+.s1 
+{
+  width:70%;
+  margin-top:50px;
+}
+.s2
+{
+  width:30%;
+  margin-top:50px;
+}
+.s2 img 
+{
+  width:100%;
+  height:525px;
+  object-fit: cover;
+}
+.con 
+{
+  font-weight: bold;
+  font-size:60px;
+  margin:50px 0px 20px 0px;
+}
+.cont
+{
+  font-weight: bold;
+  font-size:40px;
+  text-transform: capitalize;
+  margin-left:25%;
+  padding:30px 0px;
+}
+#cont-us 
+{
+  margin-left:35%;
+}
+#cont 
+{
+  font-weight: bold;
+  font-size:50px;
+  text-transform: capitalize;
+  margin:2% 18%;
+  padding:10px 0px;
+}
+.pha 
+{
+  text-transform: capitalize;
+  margin-left:30%;
+  padding:10px 0px;
+}
+.click
+{
+  border:none;
+  padding:10px;
+  background-color: black;
+  color:#fff;
+  border-radius:5px;
+}
+.clickme
+{
+  border:none;
+  padding:10px;
+  background-color: black;
+  color:#fff;
+  border-radius:5px;
+  margin:10px 500px 50px 450px;
+  background-color: darkgreen;
+  color:#fff;
+}
+.clickme:hover
+{
+  background-color: #fff;
+  color:black;
+}
+.click:hover
+{
+  background-color: darkgreen;
+  color:#fff;
+}
+.s1 h1
+{
+  font-size:70px;
+  font-weight: bold;
+}
+.q1 h1 
+{
+  font-size:70px;
+}
+#input,.input
+{
+  width:500px;
+  margin:15px 0px;
+  padding:10px;
+}
+.input 
+{
+  border:none;
+  padding:10px;
+  background-color: black;
+  color:#fff;
+  border-radius:5px;
+}
+.inputs 
+{
+  height:150px;
+}
+.xy 
+{
+  width:24%;
+  text-align: center;
+}
+#xyz 
+{
+  margin-top:43px;
+}
+.add 
+{
+  border-top:1px solid #000;
+  border-bottom:1px solid #000;
+  width:80%;
+  padding:5px 0px;
+}
+.abc 
+{
+  width:33%;
+  height:auto;
+  margin:100px 0px;
+}
+#vbn 
+{
+  height:245px;
+  object-fit: cover;
+}
+.card-title
+{
+  text-transform:uppercase;
+}
